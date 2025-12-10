@@ -112,5 +112,3 @@ repo = SQLiteTripRepository("trips.db")
 * Персистентність = дані живуть довше, ніж процес програми.
 * Конвертація типів (datetime ↔ string) — важлива частина бекенд-розробки.
 * Простий SQL — це must-have навичка для кожного Python backend developer.
-
-Хочеш — сформую **Task-4-Testing** або **Task-4-Repository-Interface** для наступного кроку розвитку trainee?
