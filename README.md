@@ -11,6 +11,31 @@
 3. **Завдання 3**: Персистентність даних з SQLite
 4. **Завдання 4**: Консольний інтерфейс (CLI) для управління даними
 
+### Пул можливих завдань
+
+Після завершення Task 4, можливі наступні завдання для поглиблення навичок:
+
+#### **Core Database & Architecture:**
+5. **SQLAlchemy ORM**: Перехід від raw SQL до ORM, моделі, relationships
+6. **PostgreSQL**: Production-ready база даних замість SQLite, connection pooling
+
+#### **Security & Authentication:**
+7. **Аутентифікація та безпека**: JWT токени, модель ролей, middleware для авторизації
+8. **API Rate Limiting**: Захист від перевантаження, throttling для scraping
+
+#### **Async & Performance:**
+9. **Асинхронні операції**: Робота з async/await, background tasks, concurrent processing
+10. **Caching**: Redis для кешування, оптимізація performance
+
+#### **Quality & Monitoring:**
+11. **Тестування**: pytest, автоматизація тестів, integration testing
+12. **Logging & Monitoring**: Structured logging, metrics, health checks
+
+#### **Production Essentials:**
+13. **Configuration Management**: Environment variables, Pydantic settings
+14. **API Documentation**: OpenAPI/Swagger, інтерактивна документація
+15. **Error Handling**: Global exception handling, custom error responses
+
 ### Навчальна мета
 
 Курс навчає **архітектурним принципам** та **best practices** сучасної backend розробки:
